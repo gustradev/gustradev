@@ -1,89 +1,86 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🔹 GUSTRADEV — Fullstack Developer Portfolio                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  GUSTRADEV — Fullstack Developer                         -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="gustradev animated header" width="100%" />
+  <img src="./assets/profile-header.svg" alt="gustradev" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1800&color=06B6D4&center=true&vCenter=true&width=700&height=45&lines=Fullstack+Developer+%7C+Civic+Tech+%7C+SaaS+Builder;15%2B+Production+Systems+Shipped+%26+Running;Microservices+%7C+Smart+IoT+%7C+Field-Ready+Products)](https://github.com/gustradev)
+
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=06B6D4&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=%F0%9F%9A%80+Fullstack+Developer+%7C+Civic+Tech+%7C+SaaS+Builder;%E2%9A%A1+15%2B+Production+Systems+Shipped+%26+Running;%F0%9F%8F%97%EF%B8%8F+Microservices+%7C+Smart+IoT+%7C+Field-Ready+Products)](https://github.com/gustradev)
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/gustradev"><img src="https://img.shields.io/badge/GitHub-gustradev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gustradev&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://github.com/gustradev?tab=repositories"><img src="https://img.shields.io/badge/Repos-15+-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Repos" /></a>
+[![GitHub](https://img.shields.io/badge/gustradev-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/gustradev)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=gustradev&style=flat-square&color=06B6D4&label=profile+views)&nbsp;
+[![Repos](https://img.shields.io/badge/repos-15+-10B981?style=flat-square&logo=git&logoColor=white)](https://github.com/gustradev?tab=repositories)
 
 </div>
 
 <br/>
 
-<!-- ─────────────────────────── ABOUT ─────────────────────────── -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<br/>
+
+---
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### 🧑‍💻 About Me
+**Hi, I'm Gustra** — a fullstack developer who ships software that is **meant to be used**, not just demoed.
 
-Hi, I'm **Gustra** — a fullstack developer who builds **software that is meant to be used**, not just demoed.
+Village digital platforms, BUMDes billing, accounting backends, geospatial dashboards, smart IoT systems — all built to survive real deployment conditions and be understood by real operators.
 
-From village digital platforms and BUMDes operations to accounting backends, billing systems, geospatial interfaces, and smart IoT concepts — I ship **production-grade systems** that survive real deployment conditions.
+> *"I don't prototype for demos. I build for the field."*
 
-> *"I don't prototype for demos. I build for operators in the field."*
+**Current Focus**
 
-**Current Focus:**
-- 🏘️ Village Digital Ecosystems (Civic Tech)
+- 🏘️ Village Digital Ecosystems — Civic Tech
 - 💰 BUMDes & Billing SaaS Platforms
 - 📊 Accounting Systems & ERP Integration
 - 🗺️ Geospatial & Public Information Tools
-- 🤖 Smart IoT & AI-Assisted Systems
+- 🤖 Smart IoT & AI-Assisted Products
 
 </td>
 <td width="45%" valign="top">
 
-### ⚡ Quick Stats
-
 ```yaml
-Name:       Gustra
-Role:       Fullstack Developer
-Focus:      Civic Tech, SaaS, Accounting, IoT
-Experience: 15+ Production Systems
-Approach:   Ship → Iterate → Scale
+name:        Gustra
+role:        Fullstack Developer
+domains:     Civic Tech · SaaS · Accounting · IoT
+systems:     15+ shipped to production
+approach:    ship → iterate → scale
 
-Stack:
-  Frontend:  React, Vite, Mantine, Tailwind
-  Backend:   NestJS, Fastify, FastAPI, Laravel
-  Database:  PostgreSQL, MySQL, Redis, Prisma
-  DevOps:    Docker, Linux, Nginx
-  IoT:       Raspberry Pi, Arduino, MQTT
-  AI/ML:     YOLO, Python
+stack:
+  frontend:  React · Vite · Mantine · Tailwind
+  backend:   NestJS · Fastify · FastAPI · Laravel
+  data:      PostgreSQL · MySQL · Redis · Prisma
+  infra:     Docker · Linux · Nginx
+  iot:       Raspberry Pi · Arduino · MQTT
+  ai:        YOLO · Python
 
-Principles:
-  - Field-usable UX first
-  - Backend correctness always
-  - Self-hosted when possible
-  - Scale only where justified
+values:
+  - field-usable UX first
+  - backend correctness
+  - self-hosted when possible
+  - scale only when justified
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<!-- ─────────────────────────── TECH STACK ─────────────────────────── -->
+---
 
 <div align="center">
 
 ## 🛠️ Tech Arsenal
-
-<br/>
 
 <table>
 <tr>
@@ -127,21 +124,16 @@ Principles:
 
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ─────────────────────────── FEATURED PROJECTS ─────────────────────────── -->
+---
 
 <div align="center">
 
 ## 🏗️ Featured Projects
 
-*Production systems that are actively running and serving real users*
+<sub>Production systems actively running and serving real users</sub>
 
 </div>
 
-<br/>
 
 <table>
 <tr>
@@ -232,9 +224,10 @@ Principles:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<!-- ─────────────────────────── MORE PROJECTS ─────────────────────────── -->
+---
+
+<!-- more projects -->
 
 <details>
 <summary><h3>📂 More Projects & Explorations (click to expand)</h3></summary>
@@ -252,11 +245,7 @@ Principles:
 
 </details>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ─────────────────────────── METHODOLOGY ─────────────────────────── -->
+---
 
 <div align="center">
 
@@ -286,17 +275,11 @@ Principles:
 </tr>
 </table>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ─────────────────────────── GITHUB STATS ─────────────────────────── -->
+---
 
 <div align="center">
 
 ## 📈 GitHub Analytics
-
-<br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustradev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=10B981&text_color=C9D1D9&ring_color=8B5CF6&rank_icon=percentile" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustradev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9" alt="Top Languages" />
@@ -311,11 +294,9 @@ Principles:
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ─────────────────────────── TROPHY ─────────────────────────── -->
+<!-- trophies -->
 
 <div align="center">
 
@@ -323,24 +304,11 @@ Principles:
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ─────────────────────────── FOOTER ─────────────────────────── -->
+---
 
 <div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-
-<sub>
-
-**⚡ Built with purpose. Shipped for the field. ⚡**
-
-*Develop because hobbies, i love what I do*
-
-</sub>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
+<sub><b>Built with purpose. Shipped for the field.</b> — <i>I develop because I love what I do.</i></sub>
 </div>
