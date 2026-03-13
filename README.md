@@ -3,16 +3,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="Gustradev — Fullstack Developer" width="100%" style="border-radius: 12px;" />
-</div>
-
-<div align="center">
   <img src="./assets/profile-header.svg" alt="gustradev animated header" width="100%" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Fullstack+Developer+%7C+Civic+Tech+%7C+SaaS+Builder;%E2%9A%A1+15%2B+Production+Systems+Shipped+and+Running;%F0%9F%8F%97%EF%B8%8F+From+Microservices+to+Smart+IoT+%7C+Field-Ready+Products)](https://github.com/gustradev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=06B6D4&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=%F0%9F%9A%80+Fullstack+Developer+%7C+Civic+Tech+%7C+SaaS+Builder;%E2%9A%A1+15%2B+Production+Systems+Shipped+%26+Running;%F0%9F%8F%97%EF%B8%8F+Microservices+%7C+Smart+IoT+%7C+Field-Ready+Products)](https://github.com/gustradev)
 
 </div>
 
