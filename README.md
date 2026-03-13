@@ -323,7 +323,7 @@ Principles:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gustradev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=gustradev&theme=darkhub&no-frame=true&column=6&margin-w=6&margin-h=6" alt="trophies" />
 
 </div>
 
