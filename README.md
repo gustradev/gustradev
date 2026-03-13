@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="gustradev" width="100%" />
+  <img src="./assets/profile-banner.png" alt="gustradev" width="100%" />
 </div>
 
 <br/>
@@ -300,7 +300,7 @@ values:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gustradev&theme=darkhub&no-frame=true&column=6&margin-w=6&margin-h=6" alt="trophies" />
+<img src="./assets/trophies.svg" alt="gustradev achievements" width="900" />
 
 </div>
 
